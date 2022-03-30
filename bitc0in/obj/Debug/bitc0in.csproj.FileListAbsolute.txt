@@ -1,0 +1,10 @@
+C:\Users\marko\source\repos\bitc0in\bitc0in\bin\Debug\bitc0in.exe.config
+C:\Users\marko\source\repos\bitc0in\bitc0in\bin\Debug\bitc0in.exe
+C:\Users\marko\source\repos\bitc0in\bitc0in\bin\Debug\bitc0in.pdb
+C:\Users\marko\source\repos\bitc0in\bitc0in\obj\Debug\bitc0in.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\bitc0in\bitc0in\obj\Debug\bitc0in.Form1.resources
+C:\Users\marko\source\repos\bitc0in\bitc0in\obj\Debug\bitc0in.Properties.Resources.resources
+C:\Users\marko\source\repos\bitc0in\bitc0in\obj\Debug\bitc0in.csproj.GenerateResource.cache
+C:\Users\marko\source\repos\bitc0in\bitc0in\obj\Debug\bitc0in.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\bitc0in\bitc0in\obj\Debug\bitc0in.exe
+C:\Users\marko\source\repos\bitc0in\bitc0in\obj\Debug\bitc0in.pdb
